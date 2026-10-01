@@ -71,6 +71,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Open Data Portal](https://opendatawatch.com/) – Resources for open government data initiatives.
 - [Tableau Government](https://www.tableau.com/solutions/government) – BI and analytics for public sector data.
 - [Power BI Government](https://powerbi.microsoft.com/government/) – Secure analytics for government agencies.
+- [UK Legislation Point-in-Time History](https://apify.com/yummy_persimmon_er1/uk-legislation-history) – Apify Actor that fetches the full amendment history of any UK Act or Statutory Instrument from the official legislation.gov.uk API: every point-in-time version with computed diffs between amendments, for regulatory-change tracking and compliance research.
 
 ## Civic Engagement & Participation
 
